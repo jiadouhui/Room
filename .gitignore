@@ -7,6 +7,9 @@ Build
 .vs
 Binaries
 
+# 上个版本
+Content/main
+
 # 项目资源文件
 Content/StarterContent
 Content/BrutalistLevelKit

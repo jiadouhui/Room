@@ -1,0 +1,16 @@
+# 缓存文件
+DerivedDataCache
+Intermediate
+Saved
+Build
+.idea
+.vs
+Binaries
+
+# 项目资源文件
+Content/StarterContent
+Content/BrutalistLevelKit
+Content/EF_Edie
+Content/Mediterranean
+Content/ModernHouse
+Content/VintageRoom

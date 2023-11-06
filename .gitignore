@@ -7,7 +7,6 @@ Build/
 .vs/
 Binaries/
 
-
 Plugins/*/.git/
 Plugins/*/DerivedDataCache/
 Plugins/*/Intermediate/

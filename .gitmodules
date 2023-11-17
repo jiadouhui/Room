@@ -1,0 +1,3 @@
+[submodule "Plugins/UI-Panelable-Kit"]
+	path = Plugins/UI-Panelable-Kit
+	url = git@github.com:honntie/UI-Panelable-Kit.git
